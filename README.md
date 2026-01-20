@@ -45,8 +45,13 @@
 开设充电直播、充电视频等
 
 # 三、绮风相关信息打假
-1. 专业篇
-1.1. 
+1. 专业篇<br>
+1.1. 把硅晶图当作荷花显微镜放大图<br>
+   <img width="667" height="686" alt="image" src="https://github.com/user-attachments/assets/2505caa8-34eb-4e4d-8443-3d21ce7d650d" />
+<img width="1661" height="727" alt="image" src="https://github.com/user-attachments/assets/b9db7c88-a80c-47e3-a9cb-0fbf82886844" />
+
+>参考：如何看待「周鸿祎说现在的大学生普遍缺乏方向感」，今年应届生应该如何应对毕业挑战？ - 绮风的回答 - 知乎https://www.zhihu.com/question/600475528/answer/3026082673<br>
+>http://aml.engineering.columbia.edu/Research/ultrafast.htm
 3. 
 
 
